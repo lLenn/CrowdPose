@@ -103,4 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# CPython
+_mask.c
+
+# VSCode plugin
 .history/
